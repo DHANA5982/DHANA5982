@@ -47,7 +47,7 @@ Whether it’s deploying real-time pipelines or experimenting with GenAI agents,
 🧠 **GenAI**  
 [YouTube Summariser using LLMs](https://github.com/DHANA5982/YouTube_Summariser_LLM)
 
-📊 **Data Analyst**
+📊 **Data Analyst**  
 [Adventureworks Report - Interactive Power BI Dashboard](https://github.com/DHANA5982/Power-BI-Adventure-Works-Lr)
 
 ---

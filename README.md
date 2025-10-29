@@ -36,23 +36,35 @@ Whether it’s deploying real-time pipelines or experimenting with GenAI agents,
 ## 📂 Featured Projects
 
 🏗️ **Big Data Engineering & 📡 Cloud Deployment** 
+
 [Azure-Powered E-Commerce Data Warehouse Solution](https://github.com/DHANA5982/Azure-Powered-E-Commerce-Data-Warehouse-Solution)
+
 [Scalable Multi-Source ETL Pipeline](https://github.com/DHANA5982/Scalable-Multi-Source-ETL-Pipeline)
+
 [Streaming, Orchestration, Dockerized Workflows](https://github.com/DHANA5982/Big_Data_Engineering_Azure_GCP_AWS)
 
 🔬 **Data Science**  
+
 [Churn Prediction & Customer Segmentation](https://github.com/DHANA5982/Churn-Prediction-And-Customer-Segmentation)
+
 [Prediction of Climatic Events](https://github.com/DHANA5982/Prediction-of-El-Nino-and-La-Nino-Events)
+
 [Portfolio Optimisation](https://github.com/DHANA5982/Portfolio-Optimisation)
+
 [Renewable Energy Surplus Prediction](https://github.com/DHANA5982/Renewable_Energy_Surplus_Prediction)
 
-🧠 ** AI, Reinforcement Learning, and Generative AI** 
+🧠 **AI, Reinforcement Learning, and Generative AI**  
+
 [YouTube Summariser using LLMs](https://github.com/DHANA5982/YouTube_Summariser_LLM)
+
 [Lunar Lander Agent](https://github.com/DHANA5982/Gymnasium_Lunar_Lander_DQN)
+
 [FrozenLake Agent](https://github.com/DHANA5982/Gymnasium_FrozenLake)
 
 📊 **Data Analyst**  
+
 [Adventureworks Report - Interactive Power BI Dashboard](https://github.com/DHANA5982/Power-BI-Adventure-Works-Lr)
+
 [UK Ecological Data Analysis](https://github.com/DHANA5982/Analysis-of-Ecological-Data-on-Various-Species)
 
 ---

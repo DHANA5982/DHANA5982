@@ -1,6 +1,12 @@
-# 🚀 DHANASEKAR GOVINDARAJ — Data Science Explorer | Workflow Architect | Big Data Engineer | GenAI Enthusiast
+# 🚀 DHANASEKAR GOVINDARAJ — Big Data Engineer | Cloud Data Engineer | Azure | AWS | Spark | SQL | Databricks
 
-👋 Hi there! I'm **DHANASEKAR**, a passionate Data Science graduate who thrives on transforming raw data into actionable insights and building intelligent, automated systems that scale.
+🎓 MSc in Data Science (University of Essex, UK) (Distinction)
+
+🚀 Transitioning into Data Engineering | Skilled in Python, PySpark, SQL, Databricks, Azure, AWS
+
+⚙️ Building scalable ETL pipelines and cloud data architectures
+
+📊 Passionate about automation, orchestration, and real-time streaming
 
 ---
 
@@ -18,18 +24,20 @@ Whether it’s deploying real-time pipelines or experimenting with GenAI agents,
 
 ## 🌱 Currently Leveling Up In
 
+- 🧱 **Databricks, Microsoft Fabric & Terraform** data engineering, orchestration & infrastructure-as-code
+- 🔄 **Kafka & Airflow** real-time streaming, event-driven pipelines & DAG-based workflow scheduling
+- ☁️ **Azure, GCP, AWS** cloud deployment & computing
 - 🧠 **GenAI & AgenticAI** solutions (Gemini, LLaMA, and beyond)
 - 🧠 **Image Processing & Decision Making**
-- ☁️ **Azure, GCP, AWS** cloud deployment & computing
 
 ---
 
 ## 💞️ Let’s Collaborate On
 
+- 🤖 **End-to-end Data Pipeline & Data Modeling & Lakehouse Architecture & Data Governance & Security**
 - ⚙️ **Real-time Streaming & Batch Processing & Workflow Orchestration**
-- 🤖 **GenAI Experiments & Model Deployment**
-- 🖼️ **Image Processing Projects**
 - 📦 **Automation & Cloud Integration**
+- 🧪 **Testing & Validation & CI/CD & Containerization & Monitoring & Deployment**
 
 ---
 
@@ -37,7 +45,7 @@ Whether it’s deploying real-time pipelines or experimenting with GenAI agents,
 
 🏗️ **Big Data Engineering & 📡 Cloud Deployment** 
 
-[Azure-Powered E-Commerce Data Warehouse Solution](https://github.com/DHANA5982/Azure-Powered-E-Commerce-Data-Warehouse-Solution)
+[Azure-Powered Lakehouse and ETL Framework](https://github.com/DHANA5982/Azure-Powered-E-Commerce-Data-Warehouse-Solution)
 
 [Scalable Multi-Source ETL Pipeline](https://github.com/DHANA5982/Scalable-Multi-Source-ETL-Pipeline)
 
@@ -81,8 +89,7 @@ Whether it’s deploying real-time pipelines or experimenting with GenAI agents,
 ## 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhanasekar-govindaraj-177096310/)
-- 📧 sekar.dhana5982@gmail.com  
-- 🧑‍💻 [GitHub Profile](https://github.com/DHANA5982)
+- 📧 sekar.dhana5982@gmail.com
 
 ---
 

@@ -91,7 +91,8 @@ Automated Job Application Tracker: Power Automate & BI Solution *(Private)*
 - 🐍 [Python & Machine Learning](https://www.udemy.com/certificate/UC-b62abab3-3033-42de-894e-6ad88a8915f2/)
 - 📊 [Power BI & Data Analyst](https://www.udemy.com/certificate/UC-0c4aef81-8fae-4d4a-ae10-26e87ce213a1/)
 - ☁️ [Big Data Engineer & Cloud Computing](https://www.udemy.com/certificate/UC-d07c1987-e989-4bec-8640-57c27f87c6ba/)
-- 🧱 [Databricks for Data Engineering](https://www.linkedin.com/learning/certificates/c5a1a647a14ee6884248cc858e56023ee7ed7aec7e335a931b3c673c8a3d4c45)
+- 🧱 [Databricks for Data Engineering Associate](https://www.linkedin.com/learning/certificates/6f9ac08356a50e6df4ed180a7bb726465cabf7f98e0433ffb3d07ea4ab1cb6c7)
+- 🧱 [Databricks Lakehouse Fundamentals](https://www.linkedin.com/learning/certificates/c5a1a647a14ee6884248cc858e56023ee7ed7aec7e335a931b3c673c8a3d4c45)
 - 🧠 GenAI & AgenticAI *(in progress)*
 
 ---

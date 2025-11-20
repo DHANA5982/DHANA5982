@@ -1,4 +1,4 @@
-# 🚀 DHANASEKAR GOVINDARAJ — Big Data Engineer | Cloud Data Engineer | Azure | AWS | Spark | SQL | Databricks
+# 🚀 DHANASEKAR GOVINDARAJ — Big Data Engineer | Cloud Data Engineer | Azure | AWS | Spark | SQL | Databricks | Snowflake
 
 🎓 MSc in Data Science (University of Essex, UK) (Distinction)
 
@@ -24,7 +24,7 @@ Whether it’s deploying real-time pipelines or experimenting with GenAI agents,
 
 ## 🌱 Currently Leveling Up In
 
-- 🧱 **Databricks, Microsoft Fabric & Terraform** data engineering, orchestration & infrastructure-as-code
+- 🧱 **Databricks (Delta-Lake), Snowflake, Microsoft Fabric & Terraform** data engineering, orchestration & infrastructure-as-code
 - 🔄 **Kafka & Airflow** real-time streaming, event-driven pipelines & DAG-based workflow scheduling
 - ☁️ **Azure, GCP, AWS** cloud deployment & computing
 - 🧠 **GenAI & AgenticAI** solutions (Gemini, LLaMA, and beyond)
@@ -43,37 +43,46 @@ Whether it’s deploying real-time pipelines or experimenting with GenAI agents,
 
 ## 📂 Featured Projects
 
-🏗️ **Big Data Engineering & 📡 Cloud Deployment** 
+### 🏗️ **Big Data Engineering & 📡 Cloud Deployment** 
 
-[Azure-Powered Lakehouse and ETL Framework](https://github.com/DHANA5982/Azure-Powered-E-Commerce-Data-Warehouse-Solution)
+Snowflake-PowerBI Data Platform: Healthcare Data Solution *(in progress)*
 
-[Scalable Multi-Source ETL Pipeline](https://github.com/DHANA5982/Scalable-Multi-Source-ETL-Pipeline)
+[Azure-Powered Data Lakehouse & ETL Pipeline: E-Commerce Data Solution](https://github.com/DHANA5982/Azure-Powered-Data-Lakehouse-and-ETL-Pipeline)
 
-[Streaming, Orchestration, Dockerized Workflows](https://github.com/DHANA5982/Big_Data_Engineering_Azure_GCP_AWS)
+[Streaming Data Integration with Kafka & Airflow: Healthcare - IoT Data Solution](https://github.com/DHANA5982/Big_Data_Engineering_Azure_GCP_AWS)
 
-🔬 **Data Science**  
+[Scalable Config-Driven Multi-Source ETL Pipeline: Supply Chain & Logistics Data Solution](https://github.com/DHANA5982/Scalable-Config-Driven-Multi-Source-ETL-Pipeline)
 
-[Churn Prediction & Customer Segmentation](https://github.com/DHANA5982/Churn-Prediction-And-Customer-Segmentation)
 
-[Prediction of Climatic Events](https://github.com/DHANA5982/Prediction-of-El-Nino-and-La-Nino-Events)
+### 🔬 **Data Science**  
 
-[Portfolio Optimisation](https://github.com/DHANA5982/Portfolio-Optimisation)
+[Customer Behavior Analysis, Churn Prediction & Customer Segmentation: E-Commerce Data Solution](https://github.com/DHANA5982/Behavior-Analysis-Churn-Prediction-and-Customer-Segmentation)
 
-[Renewable Energy Surplus Prediction](https://github.com/DHANA5982/Renewable_Energy_Surplus_Prediction)
+[Analysis & Prediction of Climate Events: El Niño & La Niña](https://github.com/DHANA5982/Analysis-Prediction-Climate-Events)
 
-🧠 **AI, Reinforcement Learning, and Generative AI**  
+[Portfolio Optimization using Capital Asset Pricing Model & Quadratic Programming: Stock Market Solution](https://github.com/DHANA5982/Portfolio-Optimisation-CAPM-QP-Stock-Market-Solution)
 
-[YouTube Summariser using LLMs](https://github.com/DHANA5982/YouTube_Summariser_LLM)
+[Analysis & Prediction of Renewable Energy: Solar & Wind Energy](https://github.com/DHANA5982/Analysis-and-Prediction-Renewable-Energy)
 
-[Lunar Lander Agent](https://github.com/DHANA5982/Gymnasium_Lunar_Lander_DQN)
 
-[FrozenLake Agent](https://github.com/DHANA5982/Gymnasium_FrozenLake)
+### 🧠 **AI, Reinforcement Learning, & Generative AI**  
 
-📊 **Data Analyst**  
+[YouTube Video Summarizer: Generative AI Solution (Google's Gemini)](https://github.com/DHANA5982/YouTube-Video-Summarizer-Generative-AI-Solution)
 
-[Adventureworks Report - Interactive Power BI Dashboard](https://github.com/DHANA5982/Power-BI-Adventure-Works-Lr)
+[Deep Q-Network Solution: Lunar Lander (Remote Sensing & Landing)](https://github.com/DHANA5982/Deep-Q-Network-Solution-Lunar-Lander)
 
-[UK Ecological Data Analysis](https://github.com/DHANA5982/Analysis-of-Ecological-Data-on-Various-Species)
+[Reinforcement Agent using Bellman's Equation: Frozen Lake Solution](https://github.com/DHANA5982/Reinforcement-Agent-Frozen-Lake-Solution)
+
+[Reinforcement Agent using SARSA & Q-Learning: Connect X Solution](https://github.com/DHANA5982/Reinforcement-Agent-Connect-X-Solution)
+
+
+### 📊 **Data Analyst**  
+
+Automated Job Application Tracker: Power Automate & BI Solution *(Private)*
+
+[Adventure Works Sales Analysis: Interactive Power BI Dashboard & Report](https://github.com/DHANA5982/Adventure-Works-Sales-Analysis-Power-BI)
+
+[Analysis of Ecological Data in the UK: Endangered Species](https://github.com/DHANA5982/Analysis-Ecological-Data-Endangered-Species)
 
 ---
 
@@ -82,6 +91,7 @@ Whether it’s deploying real-time pipelines or experimenting with GenAI agents,
 - 🐍 [Python & Machine Learning](https://www.udemy.com/certificate/UC-b62abab3-3033-42de-894e-6ad88a8915f2/)
 - 📊 [Power BI & Data Analyst](https://www.udemy.com/certificate/UC-0c4aef81-8fae-4d4a-ae10-26e87ce213a1/)
 - ☁️ [Big Data Engineer & Cloud Computing](https://www.udemy.com/certificate/UC-d07c1987-e989-4bec-8640-57c27f87c6ba/)
+- 🧱 [Databricks for Data Engineering](https://www.linkedin.com/learning/certificates/c5a1a647a14ee6884248cc858e56023ee7ed7aec7e335a931b3c673c8a3d4c45)
 - 🧠 GenAI & AgenticAI *(in progress)*
 
 ---

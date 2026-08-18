@@ -1,12 +1,18 @@
-# 🚀 DHANASEKAR GOVINDARAJ — Big Data Engineer | Cloud Data Engineer | Azure | AWS | Spark | SQL | Databricks | Snowflake
+# DHANASEKAR GOVINDARAJ — Big Data Engineer | Cloud Data Engineer | Azure | PySpark | SQL | Databricks | Snowflake | DBT
 
-🎓 MSc in Data Science (University of Essex, UK) (Distinction)
+🎓 MSc in Data Science (University of Essex, UK) (**Distinction**)
 
-🚀 Transitioning into Data Engineering | Skilled in Python, PySpark, SQL, Databricks, Azure, AWS
+🚀 Data Engineering | Azure, AWS, GCP, Databricks, Snowflake, dbt, Python, PySpark, SQL, Snowpark, Airflow, Kafka, Docker
 
-⚙️ Building scalable ETL pipelines and cloud data architectures
+⚙️ Building and maintaining scalable ETL/ELT pipelines and cloud data platforms
 
-📊 Passionate about automation, orchestration, and real-time streaming
+🔄 Developing data transformations, implementing dimensional models, data quality checks, and monitoring pipelines
+
+⚡ Optimizing performance, setting up CI/CD, and troubleshooting pipeline issues
+
+📊 Passionate about automation, orchestration, and real-time event streaming
+
+🛡️ Designing systems that anticipate and handle failures proactively
 
 ---
 
@@ -24,20 +30,18 @@ Whether it’s deploying real-time pipelines or experimenting with GenAI agents,
 
 ## 🌱 Currently Leveling Up In
 
-- 🧱 **Databricks (Delta-Lake), Snowflake, Microsoft Fabric & Terraform** data engineering, orchestration & infrastructure-as-code
+- 🧱 **Microsoft Fabric & Terraform** data engineering, orchestration & infrastructure-as-code
 - 🔄 **Kafka & Airflow** real-time streaming, event-driven pipelines & DAG-based workflow scheduling
-- ☁️ **Azure, GCP, AWS** cloud deployment & computing
 - 🧠 **GenAI & AgenticAI** solutions (Gemini, LLaMA, and beyond)
-- 🧠 **Image Processing & Decision Making**
 
 ---
 
 ## 💞️ Let’s Collaborate On
 
-- 🤖 **End-to-end Data Pipeline & Data Modeling & Lakehouse Architecture & Data Governance & Security**
-- ⚙️ **Real-time Streaming & Batch Processing & Workflow Orchestration**
-- 📦 **Automation & Cloud Integration**
-- 🧪 **Testing & Validation & CI/CD & Containerization & Monitoring & Deployment**
+- 🤖 **End-to-end Data Pipeline, Data Modeling, Lakehouse Architecture, Data Warehousing & Governance & Security**
+- ⚙️ **Real-time Streaming, Batch Processing, Workflow Orchestration**
+- 📦 **Automation, Cloud Integration**
+- 🧪 **Quality Checks, Testing, CI/CD, Monitoring, Containerization, Deployment**
 
 ---
 
@@ -93,6 +97,7 @@ Automated Job Application Tracker: Power Automate & BI Solution *(Private)*
 - ☁️ [Big Data Engineer & Cloud Computing](https://www.udemy.com/certificate/UC-d07c1987-e989-4bec-8640-57c27f87c6ba/)
 - 🧱 [Databricks for Data Engineering Associate](https://www.linkedin.com/learning/certificates/6f9ac08356a50e6df4ed180a7bb726465cabf7f98e0433ffb3d07ea4ab1cb6c7)
 - 🧱 [Databricks Lakehouse Fundamentals](https://www.linkedin.com/learning/certificates/c5a1a647a14ee6884248cc858e56023ee7ed7aec7e335a931b3c673c8a3d4c45)
+- ❄️ [Modern Data Engineering with Snowflake](https://www.linkedin.com/learning/certificates/8a9fd26c9b75df1a8bec99adb60434d6662db50941ec389fbb1a00881d469ba8)
 - 🧠 GenAI & AgenticAI *(in progress)*
 
 ---

@@ -12,7 +12,11 @@
 
 📊 Passionate about automation, orchestration, and real-time event streaming
 
-🛡️ Designing systems that anticipate and handle failures proactively
+🛡️ Designing systems that anticipate and handle failures preemptively
+
+🤖 Hands-on with GenAI, built a YouTube video summarizer using open‑source LLMs; exploring AgenticAI concepts and workflows
+
+📸 Learning Computer Vision through project-based object detection, image classification, and OCR experiments
 
 ---
 
@@ -32,11 +36,12 @@ Whether it’s deploying real-time pipelines or experimenting with GenAI agents,
 
 - 🧱 **Microsoft Fabric & Terraform** data engineering, orchestration & infrastructure-as-code
 - 🔄 **Kafka & Airflow** real-time streaming, event-driven pipelines & DAG-based workflow scheduling
-- 🧠 **GenAI & AgenticAI** solutions (Gemini, LLaMA, and beyond)
+- 🧠 **GenAI & AgenticAI** solutions (Gemini, LLaMA, and open-source)
+- 🤖 **Computer Vision** deep learning–based image classification, object detection, OCR, and model deployment
 
 ---
 
-## 💞️ Let’s Collaborate On
+## 🤝 Let’s Collaborate On
 
 - 🤖 **End-to-end Data Pipeline, Data Modeling, Lakehouse Architecture, Data Warehousing & Governance & Security**
 - ⚙️ **Real-time Streaming, Batch Processing, Workflow Orchestration**
@@ -111,7 +116,7 @@ Automated Job Application Tracker: Power Automate & BI Solution *(Private)*
 
 ## 😄 Fun Facts
 
-I love keeping things clean, organized, and joyful. Outside of tech, you’ll find me:
+I love keeping things clean, organized, and creative way. Outside of tech, you’ll find me:
 - 🍳 Cooking
 - 💃 Dancing
 - 🎶 Vibing to music

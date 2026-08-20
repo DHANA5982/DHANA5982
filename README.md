@@ -12,7 +12,7 @@
 
 📊 Passionate about automation, orchestration, and real-time event streaming
 
-🛡️ Designing systems that anticipate and handle failures preemptively
+🛡️ Not just solving problems, Designing systems that anticipate and handle failures preemptively
 
 🤖 Hands-on with GenAI, built a YouTube video summarizer using open‑source LLMs; exploring AgenticAI concepts and workflows
 

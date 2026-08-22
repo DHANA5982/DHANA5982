@@ -1,6 +1,6 @@
 # DHANASEKAR GOVINDARAJ — Big Data Engineer | Cloud Data Engineer | Azure | PySpark | SQL | Databricks | Snowflake | DBT | Airflow
 
-🎓 MSc in Data Science (University of Essex, UK) (**Distinction**)
+🎓 MSc in Data Science (University of Essex, UK) (**Distinction**) | BSc in Electronics & Communication (Sri Ramakrishna, India) (**Distinction**)
 
 🚀 Data Engineering | Azure, AWS, GCP, Databricks, Snowflake, dbt, Python, PySpark, SQL, Snowpark, Airflow, Kafka, Docker, Git, GitHub Actions
 

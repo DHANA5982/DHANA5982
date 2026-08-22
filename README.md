@@ -1,8 +1,8 @@
-# DHANASEKAR GOVINDARAJ — Big Data Engineer | Cloud Data Engineer | Azure | PySpark | SQL | Databricks | Snowflake | DBT
+# DHANASEKAR GOVINDARAJ — Big Data Engineer | Cloud Data Engineer | Azure | PySpark | SQL | Databricks | Snowflake | DBT | Airflow
 
 🎓 MSc in Data Science (University of Essex, UK) (**Distinction**)
 
-🚀 Data Engineering | Azure, AWS, GCP, Databricks, Snowflake, dbt, Python, PySpark, SQL, Snowpark, Airflow, Kafka, Docker
+🚀 Data Engineering | Azure, AWS, GCP, Databricks, Snowflake, dbt, Python, PySpark, SQL, Snowpark, Airflow, Kafka, Docker, Git, GitHub Actions
 
 ⚙️ Building and maintaining scalable ETL/ELT pipelines and cloud data platforms
 
@@ -54,7 +54,7 @@ Whether it’s deploying real-time pipelines or experimenting with GenAI agents,
 
 ### 🏗️ **Big Data Engineering & 📡 Cloud Deployment** 
 
-Snowflake-PowerBI Data Platform: Healthcare Data Solution *(in progress)*
+E-Commerce Data Warehouse: Snowflake DBT Airflow Docker GitHub Actions *(in progress)*
 
 [Azure-Powered Data Lakehouse & ETL Pipeline: E-Commerce Data Solution](https://github.com/DHANA5982/Azure-Powered-Data-Lakehouse-and-ETL-Pipeline)
 
@@ -87,7 +87,7 @@ Snowflake-PowerBI Data Platform: Healthcare Data Solution *(in progress)*
 
 ### 📊 **Data Analyst**  
 
-Automated Job Application Tracker: Power Automate & BI Solution *(Private)*
+Automated Job Application Tracker: Power Automate & Power BI *(Private)*
 
 [Adventure Works Sales Analysis: Interactive Power BI Dashboard & Report](https://github.com/DHANA5982/Adventure-Works-Sales-Analysis-Power-BI)
 

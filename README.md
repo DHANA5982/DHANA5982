@@ -54,7 +54,7 @@ Whether it’s deploying real-time pipelines or experimenting with GenAI agents,
 
 ### 🏗️ **Big Data Engineering & 📡 Cloud Deployment** 
 
-E-Commerce Data Warehouse: Snowflake DBT Airflow Docker GitHub Actions *(in progress)*
+E-Commerce Data Warehouse: Snowflake DBT Airflow Docker GitHub Actions [in progress](https://github.com/DHANA5982/Snowflake-Powered-E-Commerce-Data-Warehouse)
 
 [Azure-Powered Data Lakehouse & ETL Pipeline: E-Commerce Data Solution](https://github.com/DHANA5982/Azure-Powered-Data-Lakehouse-and-ETL-Pipeline)
 
